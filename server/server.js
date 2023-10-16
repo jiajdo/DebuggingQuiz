@@ -2,7 +2,7 @@ const express = require("express");
 
 const app = express();
 
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 4040;
 
 app.listen(PORT, () => console.log("Server started"));
 
@@ -19,6 +19,9 @@ const items = [
   },
 ];
 
+app.get("/", (req, res) => {
+  res.send("This is the home page");
+});
 app.get("/api/items", (req, res) => {
   res.send(items);
 });
