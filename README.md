@@ -22,7 +22,7 @@ Commit ```.gitignore```
 
 I also had to delete and re-install ``packagelock.json`` files at every level and redid ``npm install`` for frontend server to work. 
 
-
+## Original Quiz Instructions
 1. Debug the broken code so that it's working
 2. Correct the file architecture using command line
 3. node_modules are committed, remove them from repo on GitHub
