@@ -17,7 +17,7 @@ Commit ```.gitignore```
 
 ```git add .gitignore \ git commit -m commit message\ git push```
 
-I also had to delete and re-install ``packagelock.json`` files at every level and redoing ``npm install`` for frontend server to work. 
+I also had to delete and re-install ``packagelock.json`` files at every level and redid ``npm install`` for frontend server to work. 
 
 
 1. Debug the broken code so that it's working
