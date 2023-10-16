@@ -1,3 +1,6 @@
+![image](https://github.com/jiajdo/DebuggingQuiz/assets/127568197/fef1216a-aeee-4628-92fa-8ee53edddc13)
+
+
 ## Week 14 Quiz - Debugging, Git, & GitHub
 
 Moved files for correct file architecture using ```mv``` 
