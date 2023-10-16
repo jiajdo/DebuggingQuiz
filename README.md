@@ -3,7 +3,7 @@
 Moved files for correct file architecture using ```mv``` 
 Made server directory with ``mkdir`` 
 
-#Removing node_modules
+##Removing node_modules
 
 Added node_modules folder with ``**/node_modules``
 
