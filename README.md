@@ -6,9 +6,13 @@ Made server directory with ``mkdir``
 #Removing node_modules
 
 Added node_modules folder with ``**/node_modules``
+
 Removed cached node_modules with ```git rm -r --cached node_modules```
+
 Commit git repo without node_modules ```git commit -m Commit message```
+
 Push the change ```git push origin main```
+
 Commit ```.gitignore```
 
 ```git add .gitignore \ git commit -m commit message\ git push```
